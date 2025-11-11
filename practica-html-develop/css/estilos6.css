@@ -1,0 +1,172 @@
+
+body{
+    background-color: #f2f9ff;;
+}
+header{
+    width: 100%; /*ancho del color */
+    height: 100px; /*alto del color*/
+    display: flex;
+    justify-content: space-between; 
+    text-align: center;
+}
+.Tiendanube{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.encabezado{
+    border-radius: 3px; /*borde de radio*/
+    height: 100px; /*alto del color*/
+    display: flex;
+    justify-content: space-between; 
+    margin: 20px;
+}
+.soluciones{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.plataforma{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.precios{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.recursos{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.socios{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 15px;
+}
+.Es{
+    height: 30px;
+    border-radius: 60px;
+    width: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+hr{
+    height: 20px;
+}
+.login{
+    height: 20px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.tienda{
+    background-color: blue;
+    height: 20px;
+    border-radius: 10px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(17, 0, 255);
+    height: 80px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.segundo_encabezado{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin: 20px;
+    margin-left: 1px;
+    font-size: 30px;
+    text-align: center;
+}
+.Consolidar_tu_marca{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin-bottom: 5px;
+    margin-top: 30px;
+    text-align: center;
+}
+.Primeros_pasos{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin-top: 30px;
+    text-align: center;
+}
+.Vender_mas{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin-top: 30px;
+    text-align: center;
+}
+.Historias{
+    border-radius: 3px; /*borde de radio*/
+    height: 20px; /*alto del color*/
+    margin-top: 30px;
+    text-align: center;
+}
+.search{
+    background-color: aliceblue;
+    height: 20px;
+    border-radius: 60px;
+    width: 80px;
+    margin-top: 20px;
+    margin-top: 30px;
+}
+.main2{
+    display: flex;
+    justify-content: space-between; 
+    text-align: center;
+}
+.Primerospasos{
+    width: 200px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.Elemplos{
+    width: 650px;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.por{
+    width: 400px;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.Atualizado{
+    width: 400px;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.img{
+    background-image: url(../img/hqdefault.jpg);
+    width: 650px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
